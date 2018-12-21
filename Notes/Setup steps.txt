@@ -1,0 +1,4 @@
+1) Install Node.js
+2) Verify node and npm exists with node -v and npm -v respectively
+3) Install yarn via npm
+4) Verify yarn by typing in yarn -v
